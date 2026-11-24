@@ -158,7 +158,4 @@ This project is developed for academic and research purposes. The detection resu
 
 This project is developed as part of an academic research project at Presidency University.
 
-
-**Project Guide:** Add your faculty guide's name and designation here.
-
 **Institution:** Presidency University, Bengaluru, Karnataka, India.
